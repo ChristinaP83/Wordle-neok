@@ -2,13 +2,10 @@ import { CONFIG } from './config'
 
 export const WORDS = [
   'gi:ik',
-  'vevkam',
-  'cheoj',
-  "u'uhig",
-  'cheia'
+    'cheoj',
+    'cheia'
   'sivol'
   "ba'ag"
-'vaik'
 'gigik'
 ]
 
