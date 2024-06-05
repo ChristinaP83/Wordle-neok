@@ -22,7 +22,7 @@ export const ORTHOGRAPHY = [
   'sh'
   'th',
   'u',
-  'v'
+  'v',
   'w',
    'y',
    "'",
