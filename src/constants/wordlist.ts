@@ -3,10 +3,10 @@ import { CONFIG } from './config'
 export const WORDS = [
   'gi:ik',
     'cheoj',
-    'cheia'
-  'sivol'
-  "ba'ag"
-'gigik'
+    'cheia',
+  'sivol',
+  "ba'ag",
+'gigik',
 ]
 
 if (CONFIG.normalization) {
