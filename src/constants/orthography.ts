@@ -15,11 +15,11 @@ export const ORTHOGRAPHY = [
   'l',
   "m",
   'n',
-  "ñ",
+  'ñ',
   'o',
   'p',
   's',
-  'sh'
+  'sh',
   'th',
   'u',
   'v',
